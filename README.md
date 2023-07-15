@@ -7,6 +7,9 @@
     </a> 
   </div>
 
+  <!-- knock code pictures 敲代码的图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
@@ -21,21 +24,19 @@
 <tr><td>
 <!-- About me 关于我 -->
 ### 🤺 About Me
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
-
-<p>&emsp;&emsp;大家好，我是烟花。</p>
-<p>&emsp;&emsp;喜欢看小说，了解神话，二次元爱好者。</p>
-<p>&emsp;&emsp;目前正在努力成为一名优秀的前端工程师。</p>
-<p>&emsp;&emsp;程序员也是可以改变世界的！ヾ(◍°∇°◍)ﾉﾞ。</p>
-<p><strong>&emsp;&emsp;Programmers can change the world, too!</strong></p>
-
+  <p>&emsp;&emsp;大家好，我是烟花。</p>
+  <p>&emsp;&emsp;喜欢看小说，了解神话，二次元爱好者。</p>
+  <p>&emsp;&emsp;目前正在努力成为一名优秀的前端工程师。</p>
+  <p>&emsp;&emsp;程序员也是可以改变世界的！ヾ(◍°∇°◍)ﾉﾞ。</p>
+  <p><strong>&emsp;&emsp;Programmers can change the world, too!</strong></p>
+  <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
+</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-
+<div align="center" >
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
@@ -51,12 +52,7 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-
+<!-- GitHub 数据统计 -->
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ldr123456&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldr123456&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /><br><br>
-
-  <span> 
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-    <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
-  </span>
+  
+</div>
