@@ -12,7 +12,7 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
+    <a href="https://mp.csdn.net/mp_blog/manage/article?spm=1000.2115.3001.5448"><img src="https://img.shields.io/badge/CSDN-博客-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=ldr123456&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -22,6 +22,7 @@
 
 <table>
 <tr><td>
+
 <!-- About me 关于我 -->
 
 ### 🤺 About Me
