@@ -30,7 +30,7 @@
   <p>&emsp;&emsp;正在努力成为一名优秀的前端工程师。</p>
   <p>&emsp;&emsp;喜欢看小说，沉迷于二次元的世界不可自拔。</p>
   <p>&emsp;&emsp;作为一个程序员，想要改变世界也很正常吧！ヾ(◍°∇°◍)ﾉﾞ。</p>
-  <p><strong>&emsp;&emsp;Programmers can change the world, too!</strong></p>
+  <p><strong>&emsp;&emsp;As a programmer, it's normal to want to change the world!</strong></p>
   <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 </table>
